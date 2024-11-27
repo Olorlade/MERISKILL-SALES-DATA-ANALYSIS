@@ -17,6 +17,7 @@ The data is transformed and cleaned with the help of Power Query and this are so
 - Remove redundant columns
 ![](TransformedData.png)
 Data Analysis Expression (DAX): I created two new columns (Profit & Profit margin) using calculated column. Also, DAX measures was implemented to calculate essential metric, Total Sales.
+
 ![](Profit.PNG)
 ![](ProfitMargin.PNG)
 ![](TotalSales.PNG)
