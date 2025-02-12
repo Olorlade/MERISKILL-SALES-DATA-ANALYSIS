@@ -1,4 +1,13 @@
-# SALES-DATA-ANALYSIS
+# MERISKILLS-SALES-DATA-ANALYSIS
+## TABLE OF CONTENT
+- [OBJECTIVE](#OBJECTIVE)
+- [ABOUT THE DATA](#ABOUT_THE_DATA)
+- [BUSINESS TASK](#BUSINESS_TASK)
+- [DATA TRANSFORMATION AND DATA CLEANING](#[DATA_TRANSFORMATION_AND_DATA_CLEANING])
+- [DATA ANALYSIS AND VISUALIZATION](#DATA_ANALYSIS_AND_VISUALIZATION)
+- [RECOMMENDATION AND CONCLUSION](#RECOMMENDATION_AND_CONCLUSION)
+
+
 ## OBJECTIVE
 The aim of this project is to analyse the sales data, extract valuable insights and identify trends, top-selling products, and revenue metrics in order to improve business decisions and increase revenue. It showcases my ability to manipulate and derive insights from large datasets, enabling me to make data-driven recommendations for optimizing sales strategies.
 ## ABOUT THE DATA
@@ -40,7 +49,7 @@ AAA Batteries (4-packs) is the most bought product, it sold about 31k quantities
 ### Sales Performance By City:
 San Francisco is the top city with the highest sales performance in both year 2019 and 2020, while the city with the least sales in the year 2019 is Austin and Seattle in the year 2020. This invariably implies that San Francisco has the highest quantity ordered.
 ![](SalesPerformanceByCity.png)
-## CONCLUSION/RECOMMENDATION
+## RECOMMENDATION AND CONCLUSION
 There are lots of insights to derive from this dataset. These are just a few of the analysis derived.
 - The company needs to create a good marketing plan, it needs to focus on the cities (e.g. Austin, Seattle) with low sales, likewise the products with low sales.
 - Pop-up sales can be offered to boost sales, especially during the beginning of the year, which is January.
@@ -50,4 +59,4 @@ There are lots of insights to derive from this dataset. These are just a few of 
 Below is the dashboard for review;
 ![](DASHBOARD1.png)
 ![](DASHBOARD2.png)
-Explore the full project insights here [click here](https://tinyurl.com/MeriSkillsSalesAnalysis)
+Explore the full project insights [here](https://tinyurl.com/MeriSkillsSalesAnalysis)
