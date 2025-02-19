@@ -1,4 +1,4 @@
-# MERISKILLS-SALES-DATA-ANALYSIS
+# MERISKILL-SALES-DATA-ANALYSIS
 ## TABLE OF CONTENT
 - [OBJECTIVE](#OBJECTIVE)
 - [ABOUT THE DATA](#ABOUT_THE_DATA)
@@ -60,4 +60,4 @@ There are lots of insights to derive from this dataset. These are just a few of 
 Below is the dashboard for review;
 ![](DASHBOARD1.png)
 ![](DASHBOARD2.png)
-Explore the full project insights [here](https://tinyurl.com/MeriSkillsSalesAnalysis)
+Explore the full project insights [here](https://tinyurl.com/MeriSkillSalesAnalysis)
